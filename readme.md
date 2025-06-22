@@ -51,7 +51,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ### 4. Run the app
 
 ```bash
-streamlit run app.py
+streamlit run research.py
 ```
 
 ---
