@@ -1,0 +1,5 @@
+phidata
+streamlit
+openai
+yfinance
+duckduckgo-search
